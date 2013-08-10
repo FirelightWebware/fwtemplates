@@ -1,4 +1,4 @@
-<link href='AppSpecs.css' rel="stylesheet" />
+<link href="AppSpecs.css" rel="stylesheet" />
 
 # (Project Name)
 
