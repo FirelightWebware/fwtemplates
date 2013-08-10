@@ -83,7 +83,7 @@ Users will be [imported? invited? manual entry?]
 ## Information Architecture
 
 Navigation, page content and behavior. Pages are in bold. Everything else
-defines content and behavior for the page. Pages prefixed with **~** are in
+defines content and behavior for the page. Underlined pages are in
 navigation, otherwise the page is linked to from another part of the
 application, such as an object list view or a link in an email. _Note that
 nested pages marked as in navigation are only in the navigation on the page
