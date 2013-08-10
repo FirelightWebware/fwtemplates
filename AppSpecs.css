@@ -1,5 +1,5 @@
 body {
-  font-family: 'Calibri';
+  font-family: 'Calibri', 'Helvetica', sans-serif;
   width: 700px;
   margin: 0 auto;
 }
@@ -15,7 +15,7 @@ h1 {
 
 h1 + p {
   color: #666;
-  font-family: 'Cambria';
+  font-family: 'Cambria', 'Times', serif;
   font-size: 1.2em;
   margin-top: 0;
   padding: 0;
@@ -23,7 +23,7 @@ h1 + p {
 
 h2 {
   border-bottom: 1px solid #ccc;
-  font-family: 'Cambria';
+  font-family: 'Cambria', 'Times', serif;
   margin-top: 2em;
   padding-bottom: .5em;
 }
